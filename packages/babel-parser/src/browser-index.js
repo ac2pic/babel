@@ -1,0 +1,1 @@
+window.BabelParser = require('./index.js');
